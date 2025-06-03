@@ -1,0 +1,58 @@
+body {
+ background-color: rgba(20, 20, 20, 0.534);
+}
+
+h1 {
+ color: rgb(225, 139, 48);
+ font-family:'Trebuchet MS';
+ text-align: center;
+ 
+}
+
+h2 {
+    font-family: 'Haettenschweiler';
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(225, 139, 48);
+    text-align: center;
+    background-color:rgb(115, 131, 161);
+    padding: 10px;
+}
+
+p {
+ font-size: 18px;
+}
+
+header, footer {
+    background: rgb(94, 121, 194);
+    padding: 10px 30px;
+}
+
+.about {
+    text-align: center;
+    font-family: "Tahoma";
+    padding: 10px;
+}
+
+.skills {
+    font-size: 25px;
+    color: rgb(225, 139, 48);
+    text-align: center;
+    background-color:rgb(115, 131, 161);
+    padding: 10px;
+}
+
+div.container {
+  text-align: center;
+}
+
+.lists {
+    
+    display: inline-block;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    color: rgb(127, 204, 75);
+}
